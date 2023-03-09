@@ -1,5 +1,5 @@
 
-# Markdown Techniques and Tools
+# Hosting A Resume Using GitHub Pages and Markdown
 
 
 ### Purpose of a README
@@ -24,50 +24,67 @@ When writing a markdown you want to think about your reader. You want you conten
 
 #### Hosting a Resume
 
-Lets host a Resume using GitHub Pages.
+The goal we want to accomplish is to host your resume in a static site generator. Static sites are great in the fact that they are much easier to manage compared to your own website. Using static websites allows you to easily share your documentation with others. Make a new resume in markdown.
 
-__Step 1: Create a Resume__
+If you already have a resume, convert it to markdown. Once you have your markdown file ready we can upload it to GitHub Pages which is a static site generator.
 
-Create a resume in markdown. If you already have a resume, convert it to markdown language.
-
-The end goal we are wanting to accomplish is your resume in GitHub Pages.
+Our end goal is to host your resume like this.
 
 [Resume Gif](.gif)
 
-Once you have your markdown file ready we can upload it to a static site generator such as GitHub Pages. Static sites are great in the fact that they are much easier to manage compared to your own website. Using static websites allows you to easily share your documentation with others. 
+Lets begin the process to host a Resume using GitHub Pages!
 
 
-__Step 2: Create New Repository__
+__Step 1: Create New Repository__
 
-If you have not already logged in to GitHub, do so now. Alternatively you can do this under [GitHub Desktop](https://desktop.github.com/).
+If you have not already logged in to GitHub, do so now. Alternatively you can do this with both [GitHub Desktop](https://desktop.github.com/) and the browser. For the purpose of this example, I will be using GitHub on the Browser.
 
 1. Start by creating a new repository. 
-- If you are on a browser go to "your repositories" under your profile. Next click on the green button labelled "New".
-- Otherwise on the desktop you can create a new repository found under files (or by pressing ctrl + n).
+    - If you are on a browser go to "your repositories" under your profile. Next click on the green button labelled "New".
+    - If you are on the desktop you can create a new repository found under files (or by pressing ctrl + n).
 
 In order to host your site on GitHub Pages you will need to be ___very specific___ with your repository name. 
 
 2. Under repository name
-- Write your GitHub username, followed by .github.io.
+    - Write your GitHub username, followed by .github.io.
 
-It should look something like this ``` groffless.github.io ```
+    - It should look something like this ![](repositoryname.png)
 
-3. Create the repository.
+3. Make sure to check off initialize the repository with a README.
 
-__Step 3: Add your files__
+4. Create the repository.
+
+__Step 2: Adding your files__
 
 After creating your repository you will be inside your newly created repository. Now we are going to add your resume file.
 
-1. Click on Add Files
-2. Click Upload Files
-3. Locate your RESUME.md file and add it to the repository
+1. Under on __Add Files__ click on __Upload Files__.
+2. Locate your README.md file and add it to the repository.
+    - additionally you could add other files (if needed). 
+3. Commit your changes.
+
+__Step 3: Finding your Page__
+
+Moving back to our repository we want to head into its settings.
+
+1. Click on the __Settings__ option found in your repository. Alternatively, if you are in a smaller window it can be found in a drop down menu.
+
+2. Click on __Pages__ found under Code and Automation.
+
+![](pages.png)
+
+3. Visit the site or save the link.
+![](live.png)
+
+Congratulations! You now have your own resume hosted on GitHub Pages. Feel free to share your link to others or employers you want to send your resume to. Keep in mind you can only host one GitHub Pages at a time. If you have trouble finding check out "[Why is my resume not showing up?](#frequently-asked-questions)" in the Frequently Asked Questions.
+
+### Additional Features
+------------
+
+Maybe you think to yourself that you really dislike the layout of your markdown. It might have something to do with default font of markdown or you even wish you could change the size of your font. There are tools you can use to solve this issue like Jekyll.  
 
 
-
-
-
-
-
+[More Resources](#more-resources)
 
 ### Authors and Acknowledgements
 -------------
@@ -80,13 +97,13 @@ After creating your repository you will be inside your newly created repository.
 ### Frequently Asked Questions
 -------------
 
-1. "Why is Markdown better than a word processor?"
+__Question:__ "Why is Markdown better than a word processor?"
 
-Markdown is better than a word processor because it is more basic than your average word processor that has tons of features which most likely will require you to take your hands of the keyboard to use your mouse. You can just type whatever you need to without having to go up and manually select a size for a title or the type of font you use. Otherwise you are losing precious time that you could be using to write. 
+Markdown is better than a word processor because it is more basic than your average word processor that has tons of features which most likely will require you to take your hands of the keyboard to use your mouse. You can just type whatever you need to without having to go up and manually select a size for a title or the type of font you use. Otherwise you are losing precious time that you instead could be using to write. 
 
-2. "Why is my resume not showing up?"
+__Question:__ "Why is my resume not showing up?"
 
-It is possible that your GitHub Pages static website is still being generated. Sometimes it takes time for GitHub Pages to update. In the meantime go do something else while waiting for it to update. It could also be possible that GitHub is down for maintenance or some other reason meaning you will have to come back to it later.
+It is possible that your GitHub Pages static website is still being generated. Sometimes it takes time for GitHub Pages to update. In the meantime go do something else while waiting for it to update. It could also be possible that GitHub is down for maintenance or some other reason meaning you will have to come back to it later. Check the __Actions__ tab found under the repository to check on the process. GitHub Pages also looks for a file name such as README.md or index.md so try to check if you have written a correct file name.
 
 
 ### More Resources
@@ -96,6 +113,8 @@ Here are some resources for either learning markdown or as a refresher for how m
 __Markdown Tutorials:__
 [Markdown Tutorial](https://www.markdowntutorial.com/)
 [Basic Syntax for Markdown](https://www.markdownguide.org/basic-syntax/)
+
+__Using Jekyll:__
 
 __Interesting Read:__
 [Etter's book](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)

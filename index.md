@@ -1,6 +1,7 @@
 ## GRIFFIN LAFRENIERE
 
 __Contact Information__
+
 Cell  – (###) ###-####
 Email   – generic.email@gmail.com
 GitHub  – github.com/groffless
