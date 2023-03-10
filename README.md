@@ -7,7 +7,7 @@
 Hello and welcome to my [GitHub Pages](https://pages.github.com/) tutorial where we will create our own static website in GitHub Pages using Markdown. First of all, what is Markdown? Markdown is a lightweight markup language which is very easy to read. It is like a less confusing version of writing HTML and is used for many different things, most notably as an overview for projects. Inside a project, you will likely find a README.md file that includes the documentation about the project, how to run it as well if there are any bugs involved. 
 
 
-If you want to learn more about documentation you should check out Andrew Etter's book where he talks about techniques you can use in your writing. He talks about the importance of using lightweight markup languages and why you should use a static website. He also explains why distributing PDFs is not worth it as you are not updating PDFs like you are when writing with a markup language.
+If you want to learn more about documentation you should check out Andrew Etter's book Modern Technical Writing where he talks about techniques you can use in your writing. He talks about the importance of using lightweight markup languages and why you should use a static website. He also explains why distributing PDFs is not worth it as you are not updating PDFs like you are when writing with a markup language.
 
 ### Prerequisites
 -------------
