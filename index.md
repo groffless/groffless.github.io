@@ -2,9 +2,9 @@
 
 __Contact Information__
 
-Cell  – (###) ###-####
-Email   – generic.email@gmail.com
-GitHub  – github.com/groffless
+- Cell  – (###) ###-####
+- Email   – generic.email@gmail.com 
+- GitHub  – github.com/groffless
 
 #### SKILLS:
 
@@ -22,19 +22,15 @@ __Computer Skills__
 __Other Skills__
 - Dependability
 - Customer service oriented
-- St. John’s Ambulance First Aid Course (2018)
 - Proficiency in MS Office, Word, Excel and PowerPoint
 
 #### EDUCATION:
 
-Currently attending	University of Manitoba Faculty of Science (Major in Computer Science)
-
-The Laureate Academy Winnipeg, Manitoba Grade 12 Diploma (Honours), June, 2018	
+Currently attending	University of Manitoba Faculty of Science - Major in  Computer Science
 
 #### WORK EXPERIENCE:				
 
-Outreach Education Assistant
-BC SPCA, Vernon
+Outreach Education Assistant - BC SPCA, Vernon
 June – August 2019, June  – November, 2020	
 
 - Plan out and supervise activities for the weekly kids camps
@@ -46,8 +42,7 @@ June – August 2019, June  – November, 2020
 
 #### VOLUNTEER EXPERIENCE:
 
-Birthday Party Assistant
-Winnipeg Humane Society
+Birthday Party Assistant - Winnipeg Humane Society
 January 2017 - May 2018
 		
 - Set up of room for birthday parties
@@ -56,8 +51,7 @@ January 2017 - May 2018
 - Serving food/birthday cake to the children and parents
 - Clean up of room after party
 
-Petland
-Winnipeg, Pembina Highway
+Petland - Winnipeg, Pembina Highway
 October 2013 - June 2014
 
 - Performed various duties including feeding the animals, cleaning cages and maintaining overall cleanliness in the store
